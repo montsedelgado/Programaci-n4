@@ -1,0 +1,12 @@
+print ("hola mundo")
+
+a = 4
+a = a*2
+int(a)
+print (a)
+print(type(a))
+a = a/ 1,5
+print(type(a))
+int(a)
+print (a)
+print(type(a))
